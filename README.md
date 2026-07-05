@@ -1,4 +1,7 @@
 ## Hi there 👋
+<ul> A neophyte in software engineering</ul>
+<ul> 24 years old with a lot of potentials =) </ul>
+<ul> ex-IT sales, beginning her journey into the product world! </ul>
 
 <!--
 **giftaSantosa/giftaSantosa** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
