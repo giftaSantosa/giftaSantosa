@@ -1,9 +1,7 @@
 ## Hi There! 👋
-<div>
 - A neophyte in software engineering
 - 24 years old with a lot of potentials =)
 - ex-IT sales, beginning her journey into the product world! 
-</div>
 
 
 ## ABOUT ME 🦄
