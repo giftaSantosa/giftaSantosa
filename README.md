@@ -9,7 +9,7 @@ I am a Le Wagon Fullstack Developer student batch #2322 Tokyo. Graduated from Ba
 I am excited to build more projects from now on!
 
 ## Tech Stacks
-Java / Spring Boot
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original-wordmark.svg" alt="vscode" width="45" height="45"/> Java / Spring Boot
 Python
 Ruby / Ruby on Rails
 
